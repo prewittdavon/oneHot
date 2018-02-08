@@ -1,0 +1,14 @@
+{
+  "name": "onehots",
+  "version": "1.0.0",
+  "description": "Folder to automatically parse new .csv files upon adding them to the directory",
+  "main": "var chokidar = require('chokidar');.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
